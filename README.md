@@ -7,7 +7,7 @@ for HDMI/DP Monitor only, not working in VGA
 
 0. install python
 1. run monapp.py for ininital run and to check if your monitor is compatible
-2. rename to monapp.py to run without console
+2. rename to monapp.pyw to run without console
 3. put it the startup folder to run on boot with the config.json
 4. adjust to your preferences
 {
